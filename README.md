@@ -1,1 +1,1 @@
-# simple_od
+# simple_od (simple ssd architecture)
